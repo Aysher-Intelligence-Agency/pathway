@@ -2,5 +2,5 @@ evaluate==0.4.1
 bert_score==0.3.13
 seaborn
 mlflow
-ragas==0.2.7
+ragas==0.3.0rc2
 langchain-openai
