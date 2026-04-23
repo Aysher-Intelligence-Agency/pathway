@@ -63,7 +63,7 @@ prometheus-client = "0.22.3"
 pyo3 = { version = "0.21.2", features = ["abi3-py310", "multiple-pymethods"] }
 pyo3-asyncio = { version = "0.21.0", package = "pyo3-asyncio-0-21" }
 pyo3-log = "0.10.0"
-rand = "0.8.5"
+rand = "0.8.6"
 rayon = "1.10.0"
 rdkafka = { version = "0.36.2", features = ["ssl-vendored", "cmake-build", "zstd"] }
 regex = "1.10.6"
