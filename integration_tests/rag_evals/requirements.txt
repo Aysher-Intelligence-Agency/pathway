@@ -6,3 +6,4 @@ ragas==0.2.7
 langchain-openai
 langchain-core
 langchain-community
+pillow>=12.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
