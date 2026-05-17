@@ -16,7 +16,7 @@
     "@emotion/styled": "^11.10.4",
     "@mui/material": "^5.10.3",
     "@mui/x-data-grid": "^5.17.1",
-    "@mui/x-date-pickers": "^5.0.0",
+    "@mui/x-date-pickers": "^8.9.2",
     "css-loader": "^6.7.1",
     "deck.gl": "^8.8.9",
     "file-loader": "^6.2.0",
